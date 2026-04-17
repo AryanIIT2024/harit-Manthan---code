@@ -1,0 +1,13 @@
+# Firebase Secret Key (Ye file GitHub par nahi jayegi)
+vanaraksha-key.json
+
+# Streamlit aur Python ki temporary files
+__pycache__/
+.virtualenvs/
+venv/
+.env
+.streamlit/config.toml
+
+# OS related files
+.DS_Store
+Thumbs.db
