@@ -1,6 +1,18 @@
-streamlit
+
+
+# Core Framework
+streamlit>=1.35.0
+
+# Data & Database
 pandas
 numpy
 firebase-admin
+
+# UI & Utilities
 streamlit-autorefresh
-streamlit-webrtc
+
+# Camera & WebRTC
+streamlit-webrtc>=0.47.5
+
+# Critical Fix for Tornado/Python incompatibility
+tornado==6.4.2
